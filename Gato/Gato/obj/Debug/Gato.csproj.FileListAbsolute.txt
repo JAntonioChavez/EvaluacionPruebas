@@ -1,0 +1,10 @@
+C:\Users\Jose\source\repos\Gato\Gato\bin\Debug\Gato.exe.config
+C:\Users\Jose\source\repos\Gato\Gato\bin\Debug\Gato.exe
+C:\Users\Jose\source\repos\Gato\Gato\bin\Debug\Gato.pdb
+C:\Users\Jose\source\repos\Gato\Gato\obj\Debug\Gato.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\Gato\Gato\obj\Debug\Gato.Properties.Resources.resources
+C:\Users\Jose\source\repos\Gato\Gato\obj\Debug\Gato.csproj.GenerateResource.cache
+C:\Users\Jose\source\repos\Gato\Gato\obj\Debug\Gato.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Gato\Gato\obj\Debug\Gato.exe
+C:\Users\Jose\source\repos\Gato\Gato\obj\Debug\Gato.pdb
+C:\Users\Jose\source\repos\Gato\Gato\obj\Debug\Gato.Form1.resources
